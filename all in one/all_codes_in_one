@@ -145,9 +145,9 @@ print(len(super_villains))
 
 print(super_villains.get("Pied Piper"))
 
-#print(super_villains.keys())
+print(super_villains.keys())
 
-#print(super_villains.values())
+print(super_villains.values())
 
 
 
