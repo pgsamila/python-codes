@@ -121,7 +121,9 @@ new_tuple = list(pi_tuple)
 
 new_list = tuple(new_tuple)
 
-len(tuple) min(tuple) max(tuple)
+len(tuple)
+min(tuple)
+max(tuple)
 
 ########################################################
 
