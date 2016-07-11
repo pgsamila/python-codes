@@ -117,11 +117,11 @@ print(min(to_do_list2))
 
 pi_tuple = (3,1,4,1,5,9)
 
-#new_tuple = list(pi_tuple)
+new_tuple = list(pi_tuple)
 
-#new_list = tuple(new_tuple)
+new_list = tuple(new_tuple)
 
-#len(tuple) min(tuple) max(tuple)
+len(tuple) min(tuple) max(tuple)
 
 ########################################################
 
@@ -129,21 +129,21 @@ pi_tuple = (3,1,4,1,5,9)
 
 ########################################################
 
-#super_villains = {'Fiddler' : 'Issac Bowin' ,
-#                  'Captain Cold ' : 'Leonard Snart',
-#                  'Weather Wizard' : 'Mark Mardon' ,
-#                  'Mirror Master' : 'Sam Scudder' ,
-#                  'Pied Piper' : 'Thomas Peter'}
+super_villains = {'Fiddler' : 'Issac Bowin' ,
+                  'Captain Cold ' : 'Leonard Snart',
+                  'Weather Wizard' : 'Mark Mardon' ,
+                  'Mirror Master' : 'Sam Scudder' ,
+                  'Pied Piper' : 'Thomas Peter'}
 
-#print(super_villains['Captain Cold '])
+print(super_villains['Captain Cold '])
 
-#del super_villains ['Fiddler']
+del super_villains ['Fiddler']
 
-#super_villains['Pied Piper'] = 'Hartley Rathaway'
+super_villains['Pied Piper'] = 'Hartley Rathaway'
 
-#print(len(super_villains))
+print(len(super_villains))
 
-#print(super_villains.get("Pied Piper"))
+print(super_villains.get("Pied Piper"))
 
 #print(super_villains.keys())
 
